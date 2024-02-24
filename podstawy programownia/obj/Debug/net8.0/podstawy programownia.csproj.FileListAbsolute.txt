@@ -1,0 +1,14 @@
+c:\Users\julia\Desktop\zadania\podstawy programownia\bin\Debug\net8.0\podstawy programownia.exe
+c:\Users\julia\Desktop\zadania\podstawy programownia\bin\Debug\net8.0\podstawy programownia.deps.json
+c:\Users\julia\Desktop\zadania\podstawy programownia\bin\Debug\net8.0\podstawy programownia.runtimeconfig.json
+c:\Users\julia\Desktop\zadania\podstawy programownia\bin\Debug\net8.0\podstawy programownia.dll
+c:\Users\julia\Desktop\zadania\podstawy programownia\bin\Debug\net8.0\podstawy programownia.pdb
+c:\Users\julia\Desktop\zadania\podstawy programownia\obj\Debug\net8.0\podstawy programownia.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\julia\Desktop\zadania\podstawy programownia\obj\Debug\net8.0\podstawy programownia.AssemblyInfoInputs.cache
+c:\Users\julia\Desktop\zadania\podstawy programownia\obj\Debug\net8.0\podstawy programownia.AssemblyInfo.cs
+c:\Users\julia\Desktop\zadania\podstawy programownia\obj\Debug\net8.0\podstawy programownia.csproj.CoreCompileInputs.cache
+c:\Users\julia\Desktop\zadania\podstawy programownia\obj\Debug\net8.0\podstawy programownia.dll
+c:\Users\julia\Desktop\zadania\podstawy programownia\obj\Debug\net8.0\refint\podstawy programownia.dll
+c:\Users\julia\Desktop\zadania\podstawy programownia\obj\Debug\net8.0\podstawy programownia.pdb
+c:\Users\julia\Desktop\zadania\podstawy programownia\obj\Debug\net8.0\podstawy programownia.genruntimeconfig.cache
+c:\Users\julia\Desktop\zadania\podstawy programownia\obj\Debug\net8.0\ref\podstawy programownia.dll
